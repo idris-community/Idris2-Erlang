@@ -1,4 +1,4 @@
-INTERACTIVE ?= --interactive
+INTERACTIVE ?=
 
 .PHONY: testbin test
 
