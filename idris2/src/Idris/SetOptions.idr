@@ -15,7 +15,7 @@ import Idris.Version
 import IdrisPaths
 
 import Data.So
-import System
+import Erlang.System
 
 %default covering
 

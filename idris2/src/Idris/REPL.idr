@@ -59,8 +59,8 @@ import Text.PrettyPrint.Prettyprinter
 import Text.PrettyPrint.Prettyprinter.Util
 import Text.PrettyPrint.Prettyprinter.Render.Terminal
 
-import System
-import System.File
+import Erlang.System
+import Erlang.System.File
 
 %default covering
 
